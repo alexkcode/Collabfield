@@ -16,6 +16,13 @@ gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
+# Authentication library
+gem 'devise'
+
+# Frontend stuff
+# gem 'webpacker'
+# gem 'react-rails'
+
 # Use Bootstrap for the frontend
 gem 'bootstrap-sass', '~> 3.4.1'
 
